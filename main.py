@@ -42,7 +42,7 @@ async def daj_role(ctx, discord_id: str):
         embed = {
             "title": "Zdana Whitelist",
             "description": f"Użytkownik {member.mention} otrzymał rolę {role.name}.",
-            "color": 0x00ff00,  # Zielony kolor
+            "color": 0x00ff00,  
             "fields": [
                 {"name": "Użytkownik", "value": member.mention, "inline": True},
                 {"name": "Discord ID", "value": str(member.id), "inline": True},
