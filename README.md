@@ -10,7 +10,7 @@ wymagania -
 - pip install discord.py
 
 
-jak zkonfigurowac bota?
+jak skonfigurowac bota?
 
 - 5 linjka  TOKEN = ''
 - 6 linjka GUILD_ID =  id serwera discord bez ''
