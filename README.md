@@ -3,7 +3,7 @@
 
 wymagania -
 
--python 3.8 + 
+- python 3.8 + 
 
 - pip install disnake
 - pip install requests
