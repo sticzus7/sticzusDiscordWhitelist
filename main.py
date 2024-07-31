@@ -3,7 +3,7 @@ from disnake.ext import commands
 import requests
 
 TOKEN = '' # token bota
-GUILD_ID = 1261266075908177953  # id discorda
+GUILD_ID = 1261266075908177953  # id serwera discord
 ROLE_ID = 1267939034525733054  # id roli
 WEBHOOK_URL = ''  # webhook url
 intents = disnake.Intents.default()
